@@ -2,7 +2,7 @@
   "name": "portfolio_ashwini",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ashwini-seshadri.github.io/ashwini-seshadri",
+  "homepage": "https://ashwini-seshadri.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
